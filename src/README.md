@@ -3,7 +3,7 @@ home: true
 layout: Blog
 icon: house
 title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: https://www.leeya.com.cn/logo.svg
 heroText: Leeya.Bao
 heroFullScreen: true
 tagline: Everyone is their own library, and everyone is their own world.
@@ -33,12 +33,12 @@ projects:
     desc: 伙伴详细介绍
     link: https://你的伙伴链接
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
+  - icon: https://www.leeya.com.cn/logo.svg
     name: 自定义项目
     desc: 自定义详细介绍
     link: https://你的自定义链接
 
-footer: 自定义你的页脚文字
+footer: 生命只有一次，为什么不活出自己？
 ---
 
 这是一个博客主页的案例。
