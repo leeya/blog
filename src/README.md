@@ -7,6 +7,8 @@ heroImage: https://www.leeya.com.cn/logo.svg
 heroText: Leeya.Bao
 heroFullScreen: true
 tagline: Everyone is their own library, and everyone is their own world.
+bgImage: https://www.leeya.com.cn/bg16.png
+bgImageDark: https://www.leeya.com.cn/bg11.png
 projects:
   - icon: folder-open
     name: 项目名称
