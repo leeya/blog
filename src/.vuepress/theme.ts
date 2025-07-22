@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://www.leeya.com.cn",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://www.leeya.com.cn/logo.svg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
